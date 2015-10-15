@@ -1,6 +1,7 @@
 name: addtothebeauty
 favicon: null
 layout_spectrum: 0.8
+title: Add to the Beauty
 cta:
   domain: null
   bucket: null
